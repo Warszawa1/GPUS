@@ -3,7 +3,8 @@
 ## 1. NVIDIA GPUs (Hardware)
 - **Role**: The physical "brain" for AI calculations.
 - **Analogy**: A super-fast calculator designed for AI tasks.
-![GPU](https://example.com/nvidia-gpu-image)
+![GPU]![data-center-tesla-p100-social-media-1200](https://github.com/Warszawa1/GPUS/assets/48474962/d9e38721-3dc4-42f5-9df1-ecc7af126a7c)
+age)
 
 ## 2. NVIDIA GPU Drivers
 - **Role**: Translators between the GPU and the computer's operating system.
