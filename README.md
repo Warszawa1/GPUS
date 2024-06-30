@@ -20,10 +20,8 @@
 ## 3. CUDA
 - **Role**: A special language and set of tools created by NVIDIA.
 - **Analogy**: A bridge that lets regular programs tap into the GPU's power.
-- **🧐**
-- # What is CUDA?
-
-    ## Simple Explanation
+  
+  ## Simple Explanation
     1. **Parallel Processing**: GPUs can handle many tasks at once. CUDA lets you tap into this power.
     2. **Programming Tools**: CUDA provides a special language and tools to write programs that run on the GPU.
     3. **Speed Up Tasks**: By using CUDA, tasks like scientific calculations, image processing, and deep learning can be done much faster compared to using only the CPU (central processing unit).
@@ -45,7 +43,8 @@
   - **cuDNN**: Speeds up neural network operations.
   - **TensorRT**: Optimizes AI models for inference.
   - **NCCL**: Helps multiple GPUs work together efficiently.
-![High-Level Libraries](https://example.com/high-level-libraries-image)
+![cudnn](https://github.com/Warszawa1/GPUS/assets/48474962/f203e487-6393-47ad-a888-4e6c32556cee)
+![TensorRT](https://github.com/Warszawa1/GPUS/assets/48474962/d541515a-1e1f-41df-9507-a1bebd93bb3f)
 
 
 
@@ -53,8 +52,9 @@
 - **Role**: Use high-level libraries and CUDA to provide a complete AI development environment.
 - **Examples**: PyTorch, TensorFlow.
 - **Analogy**: Tools for building, training, and running AI models without dealing with complex underlying details.
-![ML Frameworks](https://example.com/ml-frameworks-image)
-
+![ML Frameworks]
+![download](https://github.com/Warszawa1/GPUS/assets/48474962/3dabb4d8-8d2a-4ac7-be34-7231b755aac6)
+![Tensorflow](https://github.com/Warszawa1/GPUS/assets/48474962/d80dc213-32f3-4f19-8691-80cca8c66f55)
 
 
 ## 6. Applications
