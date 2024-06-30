@@ -9,10 +9,11 @@
 
 ## 2. NVIDIA GPU Drivers
 - **Role**: Translators between the GPU and the computer's operating system.
-- **🧐**
+- **Analogy**: Allow the computer to talk to and control the GPU.
+  
   DRIVERS are small software programs that help your computer communicate with its hardware. Think of them as translators between your computer's operating system and devices like printers,
   graphics cards, or keyboards. Without drivers, your computer wouldn't know how to use these devices properly.
-- **Analogy**: Allow the computer to talk to and control the GPU.
+
 ![GPU Drivers](https://example.com/gpu-drivers-image)![img-08](https://github.com/Warszawa1/GPUS/assets/48474962/14e7d465-39ae-47da-aba1-43d2e5775bc5)
 
 
@@ -43,6 +44,7 @@
   - **cuDNN**: Speeds up neural network operations.
   - **TensorRT**: Optimizes AI models for inference.
   - **NCCL**: Helps multiple GPUs work together efficiently.
+    
 ![cudnn](https://github.com/Warszawa1/GPUS/assets/48474962/f203e487-6393-47ad-a888-4e6c32556cee)
 ![TensorRT](https://github.com/Warszawa1/GPUS/assets/48474962/d541515a-1e1f-41df-9507-a1bebd93bb3f)
 
