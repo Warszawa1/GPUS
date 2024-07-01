@@ -35,8 +35,6 @@
     - **Purpose** = Speed up complex tasks.
     - **How** = By running many calculations simultaneously.
 
-    ![CUDA](https://example.com/cuda-image)
-
 
 
 ## 4. High-Level Libraries
@@ -73,11 +71,11 @@
 4. **CUDA**: Works with the GPU driver to execute instructions on the GPU hardware.
 5. **GPU**: Performs calculations and sends results back up the chain.
 6. **Framework**: Presents results to the developer or end-user application.
-![Workflow](https://example.com/workflow-image)
+
 
 
 
 ## Summary
 This setup allows developers to work at a high level without needing to understand all the complex lower-level operations. Each layer abstracts away complexity, making it easier to develop AI applications while fully utilizing the GPU's power.
-![Summary](https://example.com/summary-image)
+
 
